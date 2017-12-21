@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/endo/NinjaTurtle_pk/devel -DCMAKE_INSTALL_PREFIX=/home/endo/NinjaTurtle_pk/install -G Unix Makefiles
